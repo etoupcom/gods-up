@@ -2,6 +2,8 @@
 基于 `docker` 的 `go-zero` 本地开发运行环境。
 
 
+## 注意：请将docker内存设置成4G及以上
+
 ## 使用
 ```bash
 cp .env.example .env
