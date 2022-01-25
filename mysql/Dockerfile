@@ -1,3 +1,3 @@
 FROM mysql:5.7
 
-LABEL maintainer="Ving <ving@nivin.cn>"
+LABEL maintainer="etoupcom <my@etoup.com>"

@@ -1,3 +1,3 @@
 FROM yedf/dtm
 
-LABEL maintainer="Ving <ving@nivin.cn>"
+LABEL maintainer="etoupcom <my@etoup.com>"
