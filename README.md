@@ -1,4 +1,4 @@
-# Goethe up
+# gods up
 基于 `docker` 的 `go-zero` 本地开发运行环境。
 
 
