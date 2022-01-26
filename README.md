@@ -98,7 +98,7 @@ docker-compose up -d etcd golang mysql redis
 ```
 
 ### 3.运行代码
-将项目代码放置 `CODE_PATH_HOST` 指定的本机目录，进入 `golang` 容器，运动项目代码。
+将项目代码放置 `CODE_PATH_HOST` 指定的本机目录，进入 `golang` 容器，运行项目代码。
 ~~~bash
 docker exec -it goethe-up-golang-1 bash
 ~~~
